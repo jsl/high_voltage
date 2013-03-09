@@ -227,3 +227,4 @@ License
 
 High Voltage is Copyright © 2009-2013 thoughtbot. It is free software, and may
 be redistributed under the terms specified in the MIT-LICENSE file.
+
